@@ -1,0 +1,7 @@
+C:\Users\1\source\repos\Евдокимов\bin\Debug\Евдокимов.exe.config
+C:\Users\1\source\repos\Евдокимов\bin\Debug\Евдокимов.exe
+C:\Users\1\source\repos\Евдокимов\bin\Debug\Евдокимов.pdb
+C:\Users\1\source\repos\Евдокимов\obj\Debug\Евдокимов.csprojAssemblyReference.cache
+C:\Users\1\source\repos\Евдокимов\obj\Debug\Евдокимов.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\Евдокимов\obj\Debug\Евдокимов.exe
+C:\Users\1\source\repos\Евдокимов\obj\Debug\Евдокимов.pdb
